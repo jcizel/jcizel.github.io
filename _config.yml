@@ -8,11 +8,11 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Janko Cizel"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Research"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -20,7 +20,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Janko Cizel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
