@@ -13,7 +13,7 @@ widget1:
   url: '/intro/'
   image: personalphoto2.jpg
   <!-- image: widget-1-302x182.jpg -->
-  text: 'Find out more about my interests, background, and research.'
+  text: 'Find out more about my interests, background and experience.'
   
 widget2:
   title: "Research"
@@ -40,8 +40,8 @@ widget3:
 #
 
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Download my Curriculum Vitae and Job Market Paper ›
+  url: https://www.dropbox.com/s/vo0q9kjsycom69w/JCizel%20--%20Curriculum%20Vitae.pdf?dl=0
+  text: Download my Curriculum Vitae›
   style: alert
 permalink: /index.html
 #
@@ -51,9 +51,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal=""> -->
+<!--   <div class="flex-video widescreen vimeo" style="display: block;"> -->
+<!--     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe> -->
+<!--   </div> -->
+<!--   <a class="close-reveal-modal">&#215;</a> -->
+<!-- </div> -->
