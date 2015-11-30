@@ -27,9 +27,9 @@
 #   - title: "Analytical Web Applications"
 #   - title: "Statistical Software"  
 
-- title: Blog
-  url: "/blog/"
-  side: left
+# - title: Blog
+#   url: "/blog/"
+#   side: left
 
 # - title: Getting Started
 #   url: "/getting-started/"
