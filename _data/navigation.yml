@@ -7,17 +7,17 @@
   side: left
 
 - title: Research
-  url: "/research/overview/"
+  url: "/research/"
   side: left
-  dropdown:
-  - title: "Overview"
-    url: "/research/overview/"
-  - title: "Published"
-    url: "/research/published/"
-  - title: "Working Papers"
-    url: "/research/wp/"    
-  - title: "Work in progress"
-    url: "/research/wip/"  
+  # dropdown:
+  # - title: "Research Overview"
+  #   url: "/research/"
+  # - title: "Published"
+  #   url: "/research/published/"
+  # - title: "Working Papers"
+  #   url: "/research/wp/"    
+  # - title: "Work in progress"
+  #   url: "/research/wip/"  
   
 
 # - title: Software

@@ -24,8 +24,9 @@ widget2:
 widget3:
   title: "Analytical Web Apps"
   image: software.jpg  
-  url: '/software/webapps/'
-  text: 'View analytical web applications that I developed as part of my research.'
+  url: '/research/'
+  text: 'View analytical web applications that I developed as part of my
+  research. Coming soon.'
 
 
 #

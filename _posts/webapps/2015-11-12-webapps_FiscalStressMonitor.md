@@ -32,16 +32,16 @@ image:
 mediaplayer: true
 ---
 
-Basel III framework has introduced a number of important changes in the sphere
-of bank regulation. Among others, it updated the existing capital regulation,
-both in terms of capital and risk coverage, and introduced two new funding
-liquidity ratios. We find that Basel III measures as a whole have only a small
-incremental out-of-sample contribution in discriminating between distressed and
-non-distressed banks, once we control for other traditionally used CAMEL and
-macroeconomic variables. We do find, however, that liquidity coverage ratio and
-risk weighted assets display marginally significant association with bank
-distress. We also find that a high fraction of intangibles in bank capital
-corresponds with higher vulnerability to distress.
+<!-- Basel III framework has introduced a number of important changes in the sphere -->
+<!-- of bank regulation. Among others, it updated the existing capital regulation, -->
+<!-- both in terms of capital and risk coverage, and introduced two new funding -->
+<!-- liquidity ratios. We find that Basel III measures as a whole have only a small -->
+<!-- incremental out-of-sample contribution in discriminating between distressed and -->
+<!-- non-distressed banks, once we control for other traditionally used CAMEL and -->
+<!-- macroeconomic variables. We do find, however, that liquidity coverage ratio and -->
+<!-- risk weighted assets display marginally significant association with bank -->
+<!-- distress. We also find that a high fraction of intangibles in bank capital -->
+<!-- corresponds with higher vulnerability to distress. -->
 
 
 
