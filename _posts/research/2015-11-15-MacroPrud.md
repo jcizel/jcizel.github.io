@@ -36,7 +36,11 @@ implications indicate a need to extend macroprudential policy beyond banking.
 
 <div class="row t60 b60">
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="http://www.jankocizel.com/EffectiveMacroprud/">Paper</a>
+<a class="button large radius alert"
+href="http://www.jankocizel.com/EffectiveMacroprud/">Data & Code</a>
+<a class="button large radius alert"
+href="https://www.dropbox.com/s/bzd7baythos6olp/JCizel%20--%20JMP.pdf?dl=0">Paper</a>
+
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 

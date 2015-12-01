@@ -27,7 +27,10 @@ from Price and Quantity Measures </a> </h3>
 study examines its effectiveness in influencing bank credit as well as its
 unintended consequences. </p>
 
-<p><a class="button tiny radius" href="/research/macroprud/">More></a></p>
+<p><a class="button tiny radius" href="/research/macroprud/">More></a>
+<a class="button tiny radius alert"
+href="https://www.dropbox.com/s/bzd7baythos6olp/JCizel%20--%20JMP.pdf?dl=0">Paper</a>
+</p>
 </div>
 
 <div class="large-6 columns">
