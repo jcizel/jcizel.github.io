@@ -47,7 +47,7 @@ and for sovereigns.  </p>
 
 <div class="row t60 b60">
 <div class="small-12 text-center columns">
-<a class="button large radius alert" href="">Curriculum Vitae</a>
+<a class="button large radius alert" href="https://www.dropbox.com/s/vo0q9kjsycom69w/JCizel%20--%20Curriculum%20Vitae.pdf?dl=0">Curriculum Vitae</a>
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
