@@ -9,16 +9,10 @@
 - title: Research
   url: "/research/"
   side: left
-  # dropdown:
-  # - title: "Research Overview"
-  #   url: "/research/"
-  # - title: "Published"
-  #   url: "/research/published/"
-  # - title: "Working Papers"
-  #   url: "/research/wp/"    
-  # - title: "Work in progress"
-  #   url: "/research/wip/"  
-  
+
+- title: Web Apps
+  url: "/webapps/"
+  side: left
 
 # - title: Software
 #   url: "/getting-started/"
@@ -99,6 +93,6 @@
 #   url: "/search/"
 #   side: right
 
-# - title: "Contact"
-#   url: "/contact/"
-#   side: right
+- title: "Contact"
+  url: "/contact/"
+  side: right

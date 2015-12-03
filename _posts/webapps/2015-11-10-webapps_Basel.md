@@ -1,8 +1,5 @@
 ---
 layout: page
-#
-# Content
-#
 subheadline: "Web Apps"
 title: "Basel Risk Weight Monitor"
 teaser: "This app was developed during my stint at the ECB. It provides an
@@ -18,10 +15,6 @@ tags:
   - Sovereign Risk
   - RShiny
   - R
-
-#
-# Styling
-#
 header: no
 image:
     <!-- title: mediaplayer_js-title.jpg -->
@@ -30,6 +23,7 @@ image:
     <!-- caption: Photo by Corey Blaz -->
     <!-- caption_url: https://blaz.photography/ -->
 mediaplayer: true
+permalink: /webapps/basel/
 ---
 
 Basel III framework has introduced a number of important changes in the sphere
