@@ -31,7 +31,7 @@ ratios, and their components.</medium></i>
 <div class="large-6 columns">
 <h3>  Bottom-Up Sovereign Risk App  </h3>
 <i><medium> This app applies the sovereign risk analysis from my joint work with
-Prof. Edward Altmant (NYU Stern) and Prof. Herbert Rijken. It reports the
+Prof. Edward Altman (NYU Stern) and Prof. Herbert Rijken. It reports the
 latests bottom-up measures for countries' financial and non-financial sectors.</medium></i>
 <p></p>
 <img src="https://jcizel.github.io/images/appsovscreen1.jpg" width="100%" alt="">
