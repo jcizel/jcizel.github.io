@@ -67,3 +67,19 @@ available soon.</medium></i>
 <a class="button tiny success" href="mailto:j.cizel@vu.nl">Express interest></a></p>
 </div>
 </div>
+
+### Software
+<div class="row">
+<div class="large-6 columns">
+<h3>  FredR: R Interface to the Federal Reserve Economic Data API</h3>
+<i><medium> This package provides an interface to the Federal Reserve Economic
+Data (FRED) API. FRED covers 240,000 US and international macroeconomic time
+series from 77 sources (including the World Bank, OECD, and BIS).FredR has been designed in a way that gives a user a complete interface to all
+available functionalities of the API.  </medium></i>
+<p></p>
+<img src="https://jcizel.github.io/images/fredr.jpg" width="100%" alt="">
+<p></p>
+<!-- <p><a class="button tiny radius" href="/webapps/basel/">More></a> -->
+<a class="button tiny alert" href="http://www.jankocizel.com/FredR/">Home Page></a></p>
+</div>
+</div>
