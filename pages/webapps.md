@@ -22,9 +22,9 @@ image:
 detailed bank-level analysis of European banks' reported risk weighted capital
 ratios, and their components.</medium></i>
 <p></p>
-<img src="https://jcizel.github.io/images/app-basel-screen1.png" width="100%" alt="">
+<img src="https://jcizel.github.io/images/app-basel-screen1.jpg" width="100%" alt="">
 <p></p>
-<p><a class="button tiny radius" href="/webapps/basel/">More></a>
+<!-- <p><a class="button tiny radius" href="/webapps/basel/">More></a> -->
 <a class="button tiny alert" href="https://jcizel87.shinyapps.io/RiskWeightMonitor/">Live app></a></p>
 </div>
 
@@ -34,9 +34,9 @@ ratios, and their components.</medium></i>
 Prof. Edward Altmant (NYU Stern) and Prof. Herbert Rijken. It reports the
 latests bottom-up measures for countries' financial and non-financial sectors.</medium></i>
 <p></p>
-<img src="https://jcizel.github.io/images/app-sov-screen1.png" width="100%" alt="">
+<img src="https://jcizel.github.io/images/app-sov-screen1.jpg" width="100%" alt="">
 <p></p>
-<p><a class="button tiny radius" href="/webapps/basel/">More></a>
+<!-- <p><a class="button tiny radius" href="/webapps/basel/">More></a> -->
 <a class="button tiny alert" href="https://jcizel87.shinyapps.io/bottomup-risk-app/">Live app></a></p>
 </div>
 </div>
@@ -49,9 +49,9 @@ latests bottom-up measures for countries' financial and non-financial sectors.</
 assessment of countries' fiscal health, and also reports early warning signals
 for countries with deteriorationg fiscal fundamentals.</medium></i>
 <p></p>
-<img src="https://jcizel.github.io/images/app-fiscal-screen1.png" width="100%" alt="">
+<img src="https://jcizel.github.io/images/app-fiscal-screen1.jpg" width="100%" alt="">
 <p></p>
-<p><a class="button tiny radius" href="/webapps/basel/">More></a>
+<!-- <p><a class="button tiny radius" href="/webapps/basel/">More></a> -->
 <a class="button tiny alert" href="https://jcizel87.shinyapps.io/FiscalStressMonitor/">Live app></a></p>
 </div>
 
