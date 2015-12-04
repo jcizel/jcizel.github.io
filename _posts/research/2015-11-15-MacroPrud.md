@@ -39,7 +39,7 @@ implications indicate a need to extend macroprudential policy beyond banking.
 <a class="button large radius alert"
 href="http://www.jankocizel.com/EffectiveMacroprud/">Data & Code</a>
 <a class="button large radius alert"
-href="https://www.dropbox.com/s/bzd7baythos6olp/JCizel%20--%20JMP.pdf?dl=0">Paper</a>
+href="https://www.dropbox.com/s/giy1tbexb2an8bc/JCizel%20--%20JMP.v2.pdf?dl=0">Paper</a>
 
 </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
