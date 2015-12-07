@@ -26,7 +26,7 @@ widget3:
   image: software.jpg  
   url: '/webapps/'
   text: 'View analytical web applications that I developed as part of my
-  research. Coming soon.'
+  research.'
 
 
 #
