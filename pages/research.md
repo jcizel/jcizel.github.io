@@ -23,6 +23,9 @@ from Price and Quantity Measures </a> </h3>
 <i><medium> With Aerdt Houben (DNB), Jon Frost (DNB), and Peter Wierts (DNB)
 </medium></i>
 
+<u><b><medium> Revise & Resubmit @ Journal of Money, Credit and Banking
+</medium></b></u>
+
 <p> Macroprudential policy is increasingly being implemented worldwide. This
 study examines its effectiveness in influencing bank credit as well as its
 unintended consequences. </p>
