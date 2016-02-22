@@ -38,7 +38,7 @@ organizations, including: <u>International Monetary Fund</u> (Monetary and Capit
 Markets), <u>European Central Bank</u> (DG-Economics, Fiscal Policies Division), 
 <u> De Nederlandsche Bank </u> (Financial Stability Division), and the <u>European
 Commission</u>. In 2014 I also visited the NYU Stern School of Business, where I was
-working together with <a href="http://people.stern.nyu.edu/ealtman/"> Prof. Edward A. Altman</a> on early warning models for banks
+working together with <a href="http://people.stern.nyu.edu/ealtman/"> Prof. Edward I. Altman</a> on early warning models for banks
 and for sovereigns.  </p>
 
 
