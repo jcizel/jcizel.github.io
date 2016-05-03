@@ -24,7 +24,10 @@ author: Janko Cizel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://jcizel.github.io'
+# url: 'https://jcizel.github.io'
+url: https://www.jankocizel.com   # with the https protocol
+enforce_ssl: www.jankocizel.com   # without any protocol
+
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
