@@ -32,7 +32,7 @@ unintended consequences. </p>
 
 <p><a class="button tiny radius" href="/research/macroprud/">More></a>
 <a class="button tiny radius alert"
-href="https://www.dropbox.com/s/bzd7baythos6olp/JCizel%20--%20JMP.pdf?dl=0">Paper</a>
+href="http://www.imf.org/external/pubs/cat/longres.aspx?sk=43870.0">Paper</a>
 </p>
 </div>
 

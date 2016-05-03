@@ -86,9 +86,8 @@ available functionalities of the API.  </medium></i>
 <div class="large-6 columns">
 <h3>  ecbapi: R Interface to the ECB SDW Data</h3>
 <i><medium> Need data from the European Central Bank? This package gives an
-intuitive and powerful interface to the <a
-href="http://sdw.ecb.europa.eu"> ECB's Statistical Data Warehouse </a> </medium></i>
-<p></p>. 
+intuitive and powerful interface to the <a href="http://sdw.ecb.europa.eu"> ECB's Statistical Data Warehouse </a> </medium></i>
+<p></p> 
 <img src="https://jcizel.github.io/images/ecbapi.jpg" width="100%" alt="">
 <p></p>
 <!-- <p><a class="button tiny radius" href="/webapps/basel/">More></a> -->
